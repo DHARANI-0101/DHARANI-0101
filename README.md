@@ -1,59 +1,70 @@
-<!-- 🌌 Next-Gen Dark Portfolio Intro by DharaniDharan -->
-<div align="center" style="font-family:'Fira Code',monospace;background:linear-gradient(145deg,#0d1117 0%,#161b22 100%);padding:50px;border-radius:16px;box-shadow:0 0 25px rgba(88,166,255,0.2);color:#e6edf3;">
+<!-- 🌌 Modern Dark Themed Developer Intro by DharaniDharan -->
 
-  <h1 style="font-size:2.8em;margin-bottom:10px;">
-    👋 Hey there, I’m <span style="color:#58a6ff;">DharaniDharan</span>
-  </h1>
+<div align="center" style="font-family: 'Fira Code', monospace; color: #e6edf3; background-color: #0d1117; padding: 40px; border-radius: 12px;">
 
-  <!-- Typing Animation -->
+  <h1 style="color:#58a6ff; font-size: 2.6em;">👋 Hello there — I’m <span style="color:#f0f6fc;">DharaniDharan</span></h1>
+
+  <!-- Typing animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=💻+Software+Developer...;⚙️+DevOps+Engineer...;🛰+SOC+Analyst...;🤖+n8n+Automation+Engineer..." alt="Typing Roles Animation" />
 
-  <p style="font-size:1.1em;color:#9ca3af;margin-top:25px;">
-    ⚡ <code style="background:#1e293b;color:#f43f5e;padding:6px 10px;border-radius:8px;">&gt; caffeine install redbull --global</code> ⚡
+  <p style="font-size: 1.1em; color:#9ca3af; margin-top: 25px;">
+    ⚡ <code style="color:#f43f5e; background:#1f2937; padding:6px 10px; border-radius:8px;">&gt; caffeine install redbull --global</code> ⚡
   </p>
 
-  <hr style="width:65%;border:0.5px solid #30363d;margin:40px auto;">
+  <br>
+  <hr style="width: 60%; border: 0.5px solid #21262d;">
+  <br>
 
-  <h2 style="color:#58a6ff;margin-bottom:15px;">🧠 About Me</h2>
+  <h2 style="color:#58a6ff;">🧠 About Me</h2>
 
-  <div style="width:80%;max-width:850px;text-align:justify;color:#c9d1d9;line-height:1.7;background:rgba(22,27,34,0.6);padding:25px 30px;border-radius:12px;box-shadow:inset 0 0 12px rgba(88,166,255,0.08);backdrop-filter:blur(6px);">
-    <p>🚀 Passionate about building <b>secure</b>, <b>scalable</b>, and <b>intelligent systems</b>. With a strong foundation in <b>software development</b>, <b>DevOps</b>, and <b>cybersecurity</b>, I bridge the gap between <b>automation</b>, <b>performance</b>, and <b>resilience</b>.</p>
+  <p style="width:80%; max-width:800px; color:#c9d1d9; line-height:1.6;">
+    🚀 Dynamic and detail-oriented professional passionate about building <b>secure</b>, <b>scalable</b>, and <b>intelligent systems</b>.  
+    With a strong foundation in <b>software development</b>, <b>DevOps</b>, and <b>cybersecurity</b>, I thrive at the intersection of  
+    <b>automation</b>, <b>performance</b>, and <b>resilience</b>.
+  </p>
 
-    <p>💻 Skilled in crafting both <b>frontend experiences</b> and <b>backend architectures</b> using <b>Node.js</b>, <b>Express.js</b>, and <b>PostgreSQL</b>. My stack thrives on <b>Docker 🐳</b>, <b>Kubernetes ☸️</b>, <b>GitHub Actions</b>, <b>Ansible</b>, and <b>n8n automation</b> for CI/CD pipelines.</p>
+  <p style="width:80%; max-width:800px; color:#c9d1d9; line-height:1.6;">
+    💻 Skilled in crafting both <b>frontend experiences</b> and <b>backend architectures</b>, I bring full-stack versatility powered by technologies like  
+    <b>Node.js</b>, <b>Express.js</b>, and <b>PostgreSQL</b>. My workflow embraces <b>containerization 🐳 (Docker, Kubernetes)</b>,  
+    <b>continuous integration 🔄 (Git, GitHub, Ansible)</b>, and <b>workflow automation 🤖 (n8n)</b> to deliver efficient, reproducible, and production-ready environments.
+  </p>
 
-    <p>🛡️ Security drives my creativity — from <b>CTF design 🧩</b> and <b>SIEM monitoring</b> to <b>OWASP-based ML/LLM security</b> research.</p>
+  <p style="width:80%; max-width:800px; color:#c9d1d9; line-height:1.6;">
+    🛡️ Beyond development, I have a deep interest in <b>security operations</b> — from <b>incident handling</b> and <b>SIEM analysis</b>  
+    to <b>CTF challenge design 🧩</b> and <b>OWASP-based ML/LLM security research</b>.
+  </p>
 
-    <p>☕ Fueled by curiosity, caffeine, and code, I’m obsessed with continuous learning and creating systems that scale securely ⚙️✨</p>
-  </div>
+  <p style="width:80%; max-width:800px; color:#c9d1d9; line-height:1.6;">
+    ☕ A fast learner driven by <b>curiosity</b> and <b>caffeine</b>, I’m committed to <b>continuous improvement</b>, <b>innovation</b>,  
+    and building systems that <b>scale securely</b> and <b>perform reliably ⚙️✨</b>.
+  </p>
 
-  <br><br>
+  <br>
   <h2 style="color:#58a6ff;">💻 Tech Stack</h2>
-  <p style="color:#9ca3af;">Tools I use to build, break & automate things</p>
+  <p style="color:#9ca3af;">A glance at my tools & technologies</p>
+  <img src="https://raw.githubusercontent.com/DHARANI-0101/DHARANI-0101/main/icons.png" alt="Tech Stack" width="80%" style="border-radius:10px; box-shadow:0 0 10px #1e293b;"/>
 
-  <img src="https://raw.githubusercontent.com/DHARANI-0101/DHARANI-0101/main/icons.png" alt="Tech Stack" width="80%" style="border-radius:14px;box-shadow:0 0 15px rgba(88,166,255,0.3);margin-top:15px;transition:transform 0.3s ease;">
-  
   <br><br>
-  <h2 style="color:#58a6ff;">📬 Connect With Me</h2>
-  <p style="color:#c9d1d9;">Let’s collaborate, innovate, and automate 🚀</p>
+  <h2 style="color:#58a6ff;">📬 Contact Me</h2>
+  <p style="color:#c9d1d9;">
+    💼 I’m always open to <b>freelance opportunities</b> — if you have a <b>project</b> or a <b>question</b>, feel free to <b>reach out 🤝</b>
+  </p>
 
-  <div style="margin-top:10px;">
-    <a href="https://github.com/DHARANI-0101" target="_blank" style="text-decoration:none;margin:4px;">
-      <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius:8px;transition:transform 0.3s;"/>
+  <p>
+    <a href="https://github.com/DHARANI-0101" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="https://linkedin.com/in/dharanidharan-" target="_blank" style="text-decoration:none;margin:4px;">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius:8px;transition:transform 0.3s;"/>
+    <a href="https://linkedin.com/in/dharanidharan-" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:dharanidharan.g2105@gmail.com" target="_blank" style="text-decoration:none;margin:4px;">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius:8px;transition:transform 0.3s;"/>
+    <a href="mailto:dharanidharan.g2105@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-  </div>
+  </p>
 
-  <p style="color:#9ca3af;font-size:0.9em;margin-top:30px;">
+  <p style="color:#9ca3af; font-size:0.9em; margin-top:20px;">
     💬 <i>"Building systems that scale — and connections that matter."</i><br>
     ☕ <sub>System Uptime: Active | Last Deploy: Today 🚀</sub>
   </p>
+
 </div>
-
-
-
-
