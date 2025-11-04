@@ -64,7 +64,7 @@
 
   <p style="color:#9ca3af; font-size:0.9em; margin-top:20px;">
     💬 <i>"Building systems that scale — and connections that matter."</i><br>
-    ☕ <sub>System Uptime: Active | Caffeine Level: 99% | Last Deploy: Today 🚀</sub>
+    ☕ <sub>System Uptime: Active | Last Deploy: Today 🚀</sub>
   </p>
 
 </div>
