@@ -41,7 +41,7 @@
 
   <br>
   <h2 style="color:#58a6ff;">💻 Tech Stack</h2>
-  <p style="color:#9ca3af;">Tools I use to build, break & automate things</p>
+  <p style="color:#9ca3af;">⚙️ Tools I use to build, test & automate things 🤖</p>
   <img src="https://raw.githubusercontent.com/DHARANI-0101/DHARANI-0101/main/icons.png" alt="Tech Stack" width="80%" style="border-radius:10px; box-shadow:0 0 10px #1e293b;"/>
 
   <br><br>
