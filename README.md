@@ -5,7 +5,7 @@
   <h1 style="color:#58a6ff; font-size: 2.6em;">👋 Hello there — I’m <span style="color:#f0f6fc;">DharaniDharan</span></h1>
 
   <!-- Typing animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=💻+Software+Developer...;⚙️+DevOps+Engineer...;🛰+SOC+Analyst...;🤖+n8n+Automation+Engineer..." alt="Typing Roles Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=💻+Web+Developer...;⚙️+DevOps+Engineer...;🛰+SOC+Analyst...;🤖+n8n+Automation+Engineer..." alt="Typing Roles Animation" />
 
   <p style="font-size: 1.1em; color:#9ca3af; margin-top: 25px;">
     ⚡ <code style="color:#f43f5e; background:#1f2937; padding:6px 10px; border-radius:8px;">&gt; caffeine install redbull --global</code> ⚡
